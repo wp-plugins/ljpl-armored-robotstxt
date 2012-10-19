@@ -1,5 +1,7 @@
 === LJPL Armored robots.txt ===
 Contributors: ljasinskipl
+Author URI: http://www.ljasinski.pl
+Plugin URI: http://www.ljasinski.pl/portfolio/wordpress-plugins/armored-robots-txt/
 Donate link: http://www.ljasinski.pl/donate
 Tags: robots.txt, security, search engine robots, crawlers, spiders
 Requires at least: 3.0
@@ -7,8 +9,6 @@ Tested up to: 3.4
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Author URI: http://www.ljasinski.pl
-Plugin URI: http://www.ljasinski.pl/portfolio/wordpress-plugins/armored-robots-txt/
 
 Add some directives to your robots.txt file to keep your site safer
 
