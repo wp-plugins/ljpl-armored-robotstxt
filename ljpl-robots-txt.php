@@ -2,7 +2,7 @@
 /*
 Plugin Name: LJPL Armored robots.txt
 Plugin URI: http://www.ljasinski.pl/portfolio/wordpress-plugins/armored-robots-txt/
-Version 1.0
+Version: 1.0
 Description: Add some directives to your robots.txt file to keep your site safer
 Author: Łukasz Jasiński
 Author URI: http://www.ljasinski.pl
